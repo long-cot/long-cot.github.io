@@ -1,0 +1,47 @@
+{'type': 'Deep Reasoning Execution', 'title': 'Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models', 'time': '2024.06'}
+{'type': 'Deep Reasoning Execution', 'title': 'SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models', 'time': '2025.01'}
+{'type': 'Deep Reasoning Execution', 'title': 'Guiding language model reasoning with planning tokens', 'time': '2023.10'}
+{'type': 'Deep Reasoning Execution', 'title': 'Efficient Reasoning with Hidden Thinking', 'time': '2025.01'}
+{'type': 'Deep Reasoning Execution', 'title': 'Scalable Language Models with Posterior Inference of Latent Thought Vectors', 'time': '2025.02'}
+{'type': 'Deep Reasoning Execution', 'title': 'Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking', 'time': '2025.02'}
+{'type': 'Deep Reasoning Execution', 'title': 'Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach', 'time': '2025.02'}
+{'type': 'Deep Reasoning Execution', 'title': 'Chain-of-Thought Prompting Elicits Reasoning in Large Language Models', 'time': '2022.11'}
+{'type': 'Deep Reasoning Execution', 'title': 'Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages', 'time': '2023.07'}
+{'type': 'Deep Reasoning Execution', 'title': '{A}uto{CAP}: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought', 'time': '2024.08'}
+{'type': 'Deep Reasoning Execution', 'title': 'CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction', 'time': '2025.02'}
+{'type': 'Deep Reasoning Execution', 'title': 'Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks', 'time': '2023.11'}
+{'type': 'Deep Reasoning Execution', 'title': 'Chain of Code: Reasoning with a Language Model-Augmented Code Emulator', 'time': '2024.07'}
+{'type': 'Deep Reasoning Execution', 'title': 'Lean-star: Learning to interleave thinking and proving', 'time': '2024.07'}
+{'type': 'Deep Reasoning Execution', 'title': 'Quiet-star: Language models can teach themselves to think before speaking', 'time': '2024.03'}
+{'type': 'Deep Reasoning Execution', 'title': 'Training large language models to reason in a continuous latent space', 'time': '2024.12'}
+{'type': 'Deep Reasoning Learning', 'title': 'Portable Reward Tuning: Towards Reusable Fine-Tuning across Different Pretrained Models', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'STeCa: Step-level Trajectory Calibration for LLM Agent Learning', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'V-star: Training verifiers for self-taught reasoners', 'time': '2024.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models', 'time': '2024.04'}
+{'type': 'Deep Reasoning Learning', 'title': 'FastMCTS: A Simple Sampling Strategy for Data Synthesis', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models', 'time': '2024.06'}
+{'type': 'Deep Reasoning Learning', 'title': 'LLMs Can Teach Themselves to Better Predict the Future', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': 'Sft memorizes, rl generalizes: A comparative study of foundation model post-training', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': 'Demystifying Long Chain-of-Thought Reasoning in LLMs', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'Advancing Math Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': "Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls", 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'Large Language Models Are Reasoning Teachers', 'time': '2023.07'}
+{'type': 'Deep Reasoning Learning', 'title': 'Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': 'Sft memorizes, rl generalizes: A comparative study of foundation model post-training', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': 'Open R1', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': 'Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus', 'time': '2024.09'}
+{'type': 'Deep Reasoning Learning', 'title': 'System-2 Mathematical Reasoning via Enriched Instruction Tuning', 'time': '2024.12'}
+{'type': 'Deep Reasoning Learning', 'title': 'Brain-Inspired Two-Stage Approach: Enhancing Mathematical Reasoning by Imitating Human Thought Processes', 'time': '2024.03'}
+{'type': 'Deep Reasoning Learning', 'title': 'Distillation Scaling Laws', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'Unveiling the Mechanisms of Explicit CoT Training: How Chain-of-Thought Enhances Reasoning Generalization', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'O1 Replication Journey--Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?', 'time': '2024.11'}
+{'type': 'Deep Reasoning Learning', 'title': 'Imitate, explore, and self-improve: A reproduction report on slow-thinking reasoning systems', 'time': '2024.12'}
+{'type': 'Deep Reasoning Learning', 'title': 'Openai o1 system card', 'time': '2024.12'}
+{'type': 'Deep Reasoning Learning', 'title': 'Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': 'LIMO: Less is More for Reasoning', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?', 'time': '2025.01'}
+{'type': 'Deep Reasoning Learning', 'title': 'Star: Bootstrapping reasoning with reasoning', 'time': '2022.11'}
+{'type': 'Deep Reasoning Learning', 'title': 'BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation', 'time': '2025.02'}
+{'type': 'Deep Reasoning Learning', 'title': 'Reinforced self-training (rest) for language modeling', 'time': '2023.08'}
+{'type': 'Deep Reasoning Learning', 'title': 'Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning', 'time': '2025.01'}
